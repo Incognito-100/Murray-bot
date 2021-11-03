@@ -1,0 +1,15 @@
+{
+  "name": "Murraybot",
+  "version": "1.0",
+  "description": "e",
+  "main": "index.ts",
+  "repository": "e",
+  "author": "Izak <izakvanheerden1@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "ts-node": "^10.4.0"
+  }
+}
