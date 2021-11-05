@@ -21,7 +21,7 @@ export default {
         description: `The action to perform. one of: ${actions.join(', ')}`,
         type: 'STRING',
         required: true,
-        choices: actions.map((action) =>({
+        choices: actions.map((action) => ({
           name: action,
           value: action,
       })),
@@ -45,7 +45,7 @@ export default {
     if (!action || !actions.includes(action)) {
       return `unknown action! Please use one of the following: ${actions.join(
         ', '
-      )} `
+      )}`
     }
 
     const memberId = args.shift()!.replace(/[<@!&>]/g, '')
