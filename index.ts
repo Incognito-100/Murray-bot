@@ -16,7 +16,7 @@ const client = new DiscordJS.Client({
 })
 
 client.on('ready', () => {
-    console.log('the bot is ready')
+    console.log('the bot is ready egrgergergeregregregrergergergegr')
 
   new WOKCommands(client, {
     commandsDir: path.join(__dirname, 'commands'),
