@@ -14,9 +14,9 @@
   "dependencies": {
     "discord.js": "^13.12.0",
     "dotenv": "^10.0.0",
-    "mongoose": "^6.6.5",
     "mongoose": "^6.2.0",
     "ts-node": "^10.9.1",
     "wokcommands": "^1.5.3"
-  }
+  },
+  "packageManager": "yarn@3.4.1"
 }
