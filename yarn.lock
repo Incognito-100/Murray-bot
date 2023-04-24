@@ -1109,7 +1109,7 @@ __metadata:
     dotenv: ^16.0.3
     mongoose: ^7.0.3
     ts-node: ^10.9.1
-    wokcommands: ^2.1.0
+    wokcommands: ^2.1.3
   languageName: unknown
   linkType: soft
 
@@ -1725,14 +1725,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wokcommands@npm:^2.1.0":
-  version: 2.1.0
-  resolution: "wokcommands@npm:2.1.0"
+"wokcommands@npm:^2.1.3":
+  version: 2.1.3
+  resolution: "wokcommands@npm:2.1.3"
   dependencies:
     discord.js: ^14.3.0
     dotenv: ^16.0.2
     mongoose: ^6.6.1
-  checksum: 925d864cb5008283948559623e5feb5077471f7ab1596b1375ed11a46bbf965328d4dc8bf37b066feada2718606d4b12d6c6ce9ffe545d77d5a16c30196c6ea3
+  checksum: 28c9ad99b3e0c3923b4a4d00f2e03d408f7d6481b154f63b11acace26387b5a6ef462316fabdc5a7561b3e3bfb2096fa238112fdfc2c97c4c82f6753f7856167
   languageName: node
   linkType: hard
 
