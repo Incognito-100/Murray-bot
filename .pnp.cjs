@@ -29,7 +29,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["discord.js", "npm:14.9.0"],\
-            ["dotenv", "npm:16.0.3"],\
+            ["dotenv", "npm:16.1.4"],\
             ["mongoose", "npm:7.0.3"],\
             ["ts-node", "virtual:f4b620fa8b2eabac81e5e9056a352fd51c33f6d59b66ea9330704fdf607f4b7f391c0811a70dc9f4f851c3381108062f7cf03be5e89d9531a20a3be98640988b#npm:10.9.1"],\
             ["wokcommands", "npm:2.1.7"]\
@@ -1346,7 +1346,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["Murraybot", "workspace:."],\
             ["discord.js", "npm:14.9.0"],\
-            ["dotenv", "npm:16.0.3"],\
+            ["dotenv", "npm:16.1.4"],\
             ["mongoose", "npm:7.0.3"],\
             ["ts-node", "virtual:f4b620fa8b2eabac81e5e9056a352fd51c33f6d59b66ea9330704fdf607f4b7f391c0811a70dc9f4f851c3381108062f7cf03be5e89d9531a20a3be98640988b#npm:10.9.1"],\
             ["wokcommands", "npm:2.1.7"]\
@@ -1542,6 +1542,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/dotenv-npm-16.0.3-4cc29121dc-afcf03f373.zip/node_modules/dotenv/",\
           "packageDependencies": [\
             ["dotenv", "npm:16.0.3"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:16.1.4", {\
+          "packageLocation": "./.yarn/cache/dotenv-npm-16.1.4-c4499a21eb-c1b2e13df4.zip/node_modules/dotenv/",\
+          "packageDependencies": [\
+            ["dotenv", "npm:16.1.4"]\
           ],\
           "linkType": "HARD"\
         }]\
