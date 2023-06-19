@@ -32,7 +32,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dotenv", "npm:16.0.3"],\
             ["mongoose", "npm:7.0.3"],\
             ["ts-node", "virtual:f4b620fa8b2eabac81e5e9056a352fd51c33f6d59b66ea9330704fdf607f4b7f391c0811a70dc9f4f851c3381108062f7cf03be5e89d9531a20a3be98640988b#npm:10.9.1"],\
-            ["wokcommands", "npm:2.1.7"]\
+            ["wokcommands", "npm:2.1.9"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -1349,7 +1349,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dotenv", "npm:16.0.3"],\
             ["mongoose", "npm:7.0.3"],\
             ["ts-node", "virtual:f4b620fa8b2eabac81e5e9056a352fd51c33f6d59b66ea9330704fdf607f4b7f391c0811a70dc9f4f851c3381108062f7cf03be5e89d9531a20a3be98640988b#npm:10.9.1"],\
-            ["wokcommands", "npm:2.1.7"]\
+            ["wokcommands", "npm:2.1.9"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -2083,10 +2083,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["wokcommands", [\
-        ["npm:2.1.7", {\
-          "packageLocation": "./.yarn/cache/wokcommands-npm-2.1.7-eccfb95962-b95c82e140.zip/node_modules/wokcommands/",\
+        ["npm:2.1.9", {\
+          "packageLocation": "./.yarn/cache/wokcommands-npm-2.1.9-a5318ec46b-432085097a.zip/node_modules/wokcommands/",\
           "packageDependencies": [\
-            ["wokcommands", "npm:2.1.7"],\
+            ["wokcommands", "npm:2.1.9"],\
             ["discord.js", "npm:14.11.0"],\
             ["dotenv", "npm:16.0.3"],\
             ["mongoose", "npm:6.10.3"]\
