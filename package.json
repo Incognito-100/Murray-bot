@@ -16,7 +16,11 @@
     "dotenv": "^16.3.1",
     "mongoose": "^7.3.1",
     "ts-node": "^10.9.1",
+<<<<<<< HEAD
     "wokcommands": "^2.1.9"
+=======
+    "wokcommands": "^2.1.7"
+>>>>>>> f8494d9d720878d1ad95c24976aba16eca6560d6
   },
   "packageManager": "yarn@3.4.1"
 }
