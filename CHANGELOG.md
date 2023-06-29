@@ -1,0 +1,57 @@
+## Unreleased
+
+### Fix
+
+- upgrade mongodb from 4.3.1 to 4.15.0
+- upgrade discord-api-types from 0.29.0 to 0.37.35
+- upgrade mime-db from 1.51.0 to 1.52.0
+- upgrade mquery from 4.0.2 to 4.0.3
+- upgrade mongodb from 4.3.1 to 4.13.0
+- upgrade mpath from 0.8.4 to 0.9.0
+- upgrade @discordjs/collection from 0.5.0 to 0.8.0
+- upgrade discord-api-types from 0.36.3 to 0.37.13
+- upgrade ts-node from 10.8.2 to 10.9.1
+- upgrade discord.js from 13.10.3 to 13.12.0
+- upgrade mongoose from 6.6.0 to 6.6.5
+- upgrade mongoose from 6.4.6 to 6.6.0
+- upgrade discord.js from 13.8.1 to 13.10.3
+- upgrade @discordjs/builders from 0.15.0 to 0.16.0
+- upgrade @discordjs/collection from 0.5.0 to 0.8.0
+- upgrade discord.js from 13.6.0 to 13.8.1
+- upgrade @cspotcode/source-map-support from 0.7.0 to 0.8.1
+- upgrade discord-api-types from 0.29.0 to 0.36.1
+- upgrade @discordjs/builders from 0.12.0 to 0.15.0
+- upgrade ts-node from 10.5.0 to 10.8.2
+- upgrade discord-api-types from 0.26.1 to 0.29.0
+- upgrade mongodb from 4.3.1 to 4.4.1
+- upgrade mongoose from 6.2.0 to 6.2.1
+- package.json & package-lock.json to reduce vulnerabilities
+- upgrade ts-node from 10.4.0 to 10.5.0
+- upgrade kareem from 2.3.3 to 2.3.4
+- upgrade discord-api-types from 0.26.1 to 0.29.0
+- upgrade sift from 13.5.2 to 13.5.4
+- upgrade ms from 2.1.2 to 2.1.3
+- upgrade @discordjs/builders from 0.11.0 to 0.12.0
+- upgrade ms from 2.1.2 to 2.1.3
+- upgrade mongoose from 6.1.3 to 6.2.0
+- upgrade @discordjs/collection from 0.4.0 to 0.5.0
+- upgrade discord.js from 13.3.1 to 13.6.0
+- upgrade @discordjs/collection from 0.3.2 to 0.4.0
+- upgrade mongodb from 4.2.2 to 4.3.0
+- upgrade discord-api-types from 0.25.2 to 0.26.1
+- upgrade kareem from 2.3.2 to 2.3.3
+- upgrade @discordjs/builders from 0.9.0 to 0.11.0
+- upgrade mongoose from 6.1.1 to 6.1.3
+- upgrade discord-api-types from 0.24.0 to 0.25.2
+- upgrade mongoose from 6.0.13 to 6.1.1
+- upgrade mongodb from 4.2.0 to 4.2.2
+- upgrade discord-api-types from 0.24.0 to 0.25.2
+- upgrade @discordjs/builders from 0.8.2 to 0.9.0
+- upgrade mime-db from 1.50.0 to 1.51.0
+- upgrade mongoose from 6.0.12 to 6.0.13
+- upgrade mongodb from 4.1.4 to 4.2.0
+- upgrade ms from 2.1.2 to 2.1.3
+- upgrade sift from 13.5.2 to 13.5.4
+- upgrade ms from 2.1.2 to 2.1.3
+- upgrade ow from 0.27.0 to 0.28.1
+- upgrade mongodb from 4.1.3 to 4.1.4
